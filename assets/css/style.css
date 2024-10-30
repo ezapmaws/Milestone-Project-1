@@ -12,6 +12,14 @@ header nav {
     display: flex;
 }
 
+.button-link {
+    color: #0f0f00;
+}
+
+.shadoww {
+    box-shadow: #0f0f00;
+}
+
 /* ~~Nav toggle (from love running project)~~ deprecated, used bootstrap */
 /* #menu {
     font-size: 110%;
@@ -82,3 +90,4 @@ header nav {
     font-weight: 700;
     font-style: normal;
 }
+
