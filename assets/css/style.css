@@ -30,6 +30,10 @@ header nav {
     box-shadow: #0f0f00;
 }
 
+footer {
+    background-color: #F0AE3E;
+}
+
 /* ~~Nav toggle (from love running project)~~ deprecated, used bootstrap */
 /* #menu {
     font-size: 110%;
