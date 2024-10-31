@@ -37,7 +37,7 @@ footer {
 .navbar-nav {
     float: right;
     background-color: #F0AE3E;
-    border-radius: 10%;
+    border-radius: 0 0 10% 10%;
     padding: 1em;
 }
 
