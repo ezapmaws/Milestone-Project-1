@@ -85,6 +85,10 @@ footer {
     }
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 
 /* font usage for specific elements */
 .comic-neue-bold {
