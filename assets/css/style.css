@@ -45,6 +45,13 @@ footer {
     color: #ffffff;
 }
 
+#blurb {
+    text-align: center;
+    color: darkgreen;
+    padding: 2em;
+}
+    
+
 /* ~~Nav toggle (from love running project)~~ deprecated, used bootstrap */
 /* #menu {
     font-size: 110%;
