@@ -9,7 +9,7 @@
 }
 
 header nav {
-    height: 60px;
+    height: 64px;
     background: fixed;
     background-color: #95cb3f;
     border-radius: 1%;
@@ -32,6 +32,17 @@ header nav {
 
 footer {
     background-color: #F0AE3E;
+}
+
+.navbar-nav {
+    float: right;
+    background-color: #F0AE3E;
+    border-radius: 10%;
+    padding: 1em;
+}
+
+.navbar-toggler-icon {
+    color: #ffffff;
 }
 
 /* ~~Nav toggle (from love running project)~~ deprecated, used bootstrap */
