@@ -80,32 +80,6 @@ footer {
 }
     
 
-/* ~~Nav toggle (from love running project)~~ deprecated, used bootstrap */
-/* #menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
-}
-
-#menu > li {
-    margin-bottom: 1em;
-}
-
-#nav-toggle:checked~nav {
-    display: block;
-}
-
-#nav-toggle {
-    display: none;
-}
-
-.nav-toggle-label {
-    font-size: 2rem;
-}
-
-.pushimageright {
-    margin-right: 0;
-}
 
 /* may end up using this to help with responsivity, so far bootstrap seems to be doing fine */
 @media screen and (min-width: 768px) {
