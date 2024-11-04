@@ -50,6 +50,34 @@ footer {
     color: darkgreen;
     padding: 2em;
 }
+
+#about1 {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 35%;
+    margin-bottom: 60px;
+}
+
+#about2 {
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 35%;
+    margin-bottom: 60px;
+}
+
+#about3 {
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 35%;
+    margin-bottom: 60px;
+}
+
+#about4 {
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 35%;
+    
+}
     
 
 /* ~~Nav toggle (from love running project)~~ deprecated, used bootstrap */
